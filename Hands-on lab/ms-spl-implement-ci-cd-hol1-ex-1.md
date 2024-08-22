@@ -397,7 +397,7 @@ The last task automated building and updating only one of the Docker images. In 
 
    ![](media/contosoprovision.png) 
    
-1. Remove the commands from line 7 to 14 from the workflow file.
+1. Remove the commands from line 7 to 14 from the workflow file and save the file.
 
    ![](media/2dgn163.png) 
    
